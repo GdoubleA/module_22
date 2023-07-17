@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(184, 190, 99, 0.253);
+}
+
+.flags{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 100px auto;
+}
+
+.header{
+    text-align: center;
+}
+
+.flag__title{
+    text-align: center;
+}
+
+.flag__container{
+    margin: 20px;
+}
